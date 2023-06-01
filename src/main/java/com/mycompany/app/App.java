@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "I Hate Jenkins";
+    private static final String MESSAGE = "I really Hate Jenkins";
 
     public App() {}
 
